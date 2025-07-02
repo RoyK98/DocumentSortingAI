@@ -1,0 +1,11 @@
+# Configure your OpenAI here
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Place to configure your server
+PORT=5000
+
+# If you want to add a database, you can configure one here
+# DATABASE_URL=your_database_url_here
+
+# Server Setting
+HOST=0.0.0.0 
